@@ -1,0 +1,12 @@
+C:\ClassCompassProject\ClassCompass.Shared\bin\Debug\net8.0\ClassCompass.Shared.deps.json
+C:\ClassCompassProject\ClassCompass.Shared\bin\Debug\net8.0\ClassCompass.Shared.dll
+C:\ClassCompassProject\ClassCompass.Shared\bin\Debug\net8.0\ClassCompass.Shared.pdb
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.csproj.AssemblyReference.cache
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.AssemblyInfoInputs.cache
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.AssemblyInfo.cs
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.csproj.CoreCompileInputs.cache
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.dll
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\refint\ClassCompass.Shared.dll
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ClassCompass.Shared.pdb
+C:\ClassCompassProject\ClassCompass.Shared\obj\Debug\net8.0\ref\ClassCompass.Shared.dll
